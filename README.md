@@ -1,0 +1,2 @@
+# javascript
+Start the journey
